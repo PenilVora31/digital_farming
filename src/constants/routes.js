@@ -1,0 +1,15 @@
+export const DASHBOARD = "/dashboard";
+export const HOME = "/";
+export const LOGIN = "/login";
+export const SIGN_UP = "/signup";
+export const PROFILE = "/profile/:id";
+export const NOT_FOUND = "/*";
+export const CROP = "/crop";
+export const SOIL = "/soil";
+export const DISEASE = "/disease";
+export const FERTILIZER = "/fertilizer";
+export const IRRIGATION = "/irrigation";
+export const HARVEST = "/harvest";
+export const ESTIMATION = "/estimation";
+export const SOWING = "/sowing";
+export const SEED = "/seed";
